@@ -1,6 +1,6 @@
 # Deep Learning in Dental Image Analysis: A Systematic Review of Datasets, Methodologies, and Emerging Challenges
 
-[![Paper](https://img.shields.io/badge/CAAI%20AIR-Paper-blue.svg)]([https://doi.org/10.26599/TAI.2022.91500XX](https://www.sciopen.com/article/10.26599/AIR.2026.9150006))
+[![Paper](https://img.shields.io/badge/CAAI%20AIR-Paper-blue.svg)](https://www.sciopen.com/article/10.26599/AIR.2026.9150006)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
@@ -32,7 +32,8 @@ This is the official repository for the paper **"Deep Learning in Dental Image A
 
 To facilitate convenient searching, filtering, and cross-referencing for researchers, we provide a fully annotated, interactive online spreadsheet containing granular metadata for all reviewed studies and datasets:
 
-👉 **[Click Here to Open the Interactive Online Database (WPS Sheet)](YOUR_WPS_SHARED_DOCUMENT_LINK)**
+👉 **[Click Here to Open the Interactive Online Database (WPS Sheet)](【金山文档 | WPS云文档】 综述论文整理
+https://www.kdocs.cn/l/cuFF9dDaV80L)**
 
 ### 📂 Spreadsheet Structure & Sheet Navigation
 - 📄 **`综述论文`**: Exhaustive summary table covering all **211 included deep learning papers**.
