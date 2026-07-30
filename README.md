@@ -28,6 +28,39 @@ This is the official repository for the paper **"Deep Learning in Dental Image A
 
 ---
 
+## 🌐 Interactive Online Database (WPS Sheet)
+
+To facilitate convenient searching, filtering, and cross-referencing for researchers, we provide a fully annotated, interactive online spreadsheet containing granular metadata for all reviewed studies and datasets:
+
+👉 **[Click Here to Open the Interactive Online Database (WPS Sheet)](YOUR_WPS_SHARED_DOCUMENT_LINK)**
+
+### 📂 Spreadsheet Structure & Sheet Navigation
+- 📄 **`综述论文`**: Exhaustive summary table covering all **211 included deep learning papers**.
+- 📊 **`公开数据集论文`**: Comprehensive index of all **49 publicly available dental datasets**.
+- ❌ **`淘汰论文`**: Record of filtered-out papers during systematic screening with specific exclusion reasons.
+- ❌ **`淘汰数据集`**: Record of filtered-out datasets with specific exclusion reasons.
+- 🏷️ **`密集型（分割）` / `分类` / `其他`**: Task-oriented subsets of the 211 studies categorized for targeted retrieval.
+
+---
+
+### 📋 Structured Metadata Schema
+
+#### 1. Research Papers Metadata Schema (211 Studies)
+Each paper record is systematically indexed across 5 major technical dimensions:
+- **Basic Info (基本情况)**: English Title, Chinese Title, Author Nationality, Publication Venue, Year, Task Type, Main Text Translation Mapping.
+- **Data (数据)**: Imaging Modality, Sample Volume, Data Source, Public/Private Status, Data Preprocessing Protocols, Supplementary Figures.
+- **Methodology (方法)**: Backbone Architecture, Custom Auxiliary Mechanisms, Detailed Network Model Design, Supplementary Figures.
+- **Training Setup (训练)**: Loss Functions & Optimizers, GPU Hardware, Miscellaneous Setup.
+- **Experiment & Performance (实验)**: Evaluation Metrics, Testing Protocols, Quantitative Performance Results, Supplementary Figures.
+
+#### 2. Public Datasets Metadata Schema (49 Datasets)
+Each public dataset record encompasses complete administrative and technical attributes:
+- **General Attributes**: Dataset Name/Alias, English Title, Author Nationality, Publication Venue, Year, Task Type.
+- **Data Characteristics**: Imaging Modalities, Target Demographics & Age Groups, Data Volume, Data Source & Descriptions.
+- **Access & Availability**: License Types, Acquisition Channels, Availability Status (*Direct Download / Request Required / Inaccessible*), Supplementary Figures.
+
+---
+
 ## 🌟 Overview & Taxonomy
 
 <p center="align">
