@@ -1,6 +1,6 @@
 # Deep Learning in Dental Image Analysis: A Systematic Review of Datasets, Methodologies, and Emerging Challenges
 
-[![Paper](https://img.shields.io/badge/CAAI%20AIR-Paper-blue.svg)](https://doi.org/10.26599/TAI.2022.91500XX)
+[![Paper](https://img.shields.io/badge/CAAI%20AIR-Paper-blue.svg)]([https://doi.org/10.26599/TAI.2022.91500XX](https://www.sciopen.com/article/10.26599/AIR.2026.9150006))
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
