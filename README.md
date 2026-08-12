@@ -167,13 +167,12 @@ Statistically aggregated insights on common training setups across 211 DL studie
 If you find our paper or dataset survey helpful for your research, please consider citing our work:
 
 ```bibtex
-@article{zhou2026deep,
-  title={Deep Learning in Dental Image Analysis: A Systematic Review of Datasets, Methodologies, and Emerging Challenges},
-  author={Zhou, Zhenhuan and Zhu, Jingbo and Zhang, Yuchen and Guan, Xiaohang and Wang, Peng and Li, Tao},
-  journal={CAAI Artificial Intelligence Research},
-  volume={1},
-  pages={1--5},
-  year={2026},
-  publisher={Tsinghua University Press},
-  doi={10.26599/TAI.2022.91500XX}
+@article{Zhou2026, 
+author = {Zhenhuan Zhou and Jingbo Zhu and Yuchen Zhang and Xiaohang Guan and Peng Wang and Tao Li},
+title = {Deep Learning in Dental Image Analysis: A Systematic Review of Datasets, Methodologies, and Emerging Challenges},
+year = {2026},
+journal = {CAAI Artificial Intelligence Research},
+keywords = {Deep Learning, Dental Image Analysis, Dental Datasets, Systematic Review},
+url = {https://www.sciopen.com/article/10.26599/AIR.2026.9150006},
+doi = {10.26599/AIR.2026.9150006},
 }
