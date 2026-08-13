@@ -65,7 +65,7 @@ Each public dataset record encompasses complete administrative and technical att
 ## 🌟 Overview & Taxonomy
 
 <p center="align">
-  <img src="assets/fig3_taxonomy.png" width="95%" alt="Taxonomy of Deep Learning in Dental Image Analysis"/>
+  <img src="assets/fig3_taxonomy.svg" width="95%" alt="Taxonomy of Deep Learning in Dental Image Analysis"/>
 </p>
 
 *Figure: Taxonomy of Deep Learning Applications in Dental Image Analysis, categorizing public datasets by modalities (PAN, PR, CBCT, IOS, IP) and deep learning algorithms by task goals and model backbones.*
@@ -74,7 +74,7 @@ Each public dataset record encompasses complete administrative and technical att
 <summary><b>🔍 Click to view Annual Publication Trends & Regional Distribution</b></summary>
 <br/>
 <p center="align">
-  <img src="assets/fig1_statistics.png" width="85%" alt="Publication Trends and Geographic Distribution"/>
+  <img src="assets/fig1_statistics.svg" width="85%" alt="Publication Trends and Geographic Distribution"/>
 </p>
 </details>
 
@@ -85,8 +85,8 @@ Each public dataset record encompasses complete administrative and technical att
 We systematically meta-analyze **49 publicly accessible dental datasets** across 5 primary modalities.
 
 <p center="align">
-  <img src="assets/fig7_dataset_dist.png" width="48%" />
-  <img src="assets/fig8_dataset_samples.png" width="48%" />
+  <img src="assets/fig7_dataset_dist.svg" width="48%" />
+  <img src="assets/fig8_dataset_samples.svg" width="48%" />
 </p>
 
 ### Key Public Datasets Summary (Selection)
@@ -113,21 +113,21 @@ The reviewed 211 algorithm papers are categorized into three major streams: **De
 Focuses on tooth semantic/instance segmentation, FDI numbering, and fine-grained internal tooth structures (dental pulp, dentin, enamel, and root canals).
 
 <p align="center">
-  <img src="assets/Tooth_result.png" width="90%" alt="Tooth-level and Anatomical-level Segmentation"/>
+  <img src="assets/Tooth_result.svg" width="90%" alt="Tooth-level and Anatomical-level Segmentation"/>
 </p>
 
 ### 2. Pathology & Disease Prediction
 Detecting and segmenting dental caries, plaque, cracked teeth, periodontitis, and periapical lesions across intraoral photos and radiographs.
 
 <p align="center">
-  <img src="assets/Dental_Diseases.png" width="90%" alt="Dental Pathology and Disease Detection"/>
+  <img src="assets/Dental_Diseases.svg" width="90%" alt="Dental Pathology and Disease Detection"/>
 </p>
 
 ### 3. Maxillofacial Structure Prediction
 3D reconstruction and precise boundary delineation for critical jaw structures including Mandible, Maxillary Sinus, Temporomandibular Joint (TMJ), and Inferior Alveolar Nerve (IAN).
 
 <p align="center">
-  <img src="assets/Maxillofacial_Structure.png" width="90%" alt="Maxillofacial Structure Segmentation"/>
+  <img src="assets/Maxillofacial_Structure.svg" width="90%" alt="Maxillofacial Structure Segmentation"/>
 </p>
 
 ### 4. Classification & Derived Tasks
@@ -140,7 +140,7 @@ Covers tooth wear grading, implant classification, multi-modal registration (CBC
 Statistically aggregated insights on common training setups across 211 DL studies:
 
 <p center="align">
-  <img src="assets/fig24_training_stats.png" width="85%" alt="Training Parameters Statistics"/>
+  <img src="assets/fig24_training_stats.svg" width="85%" alt="Training Parameters Statistics"/>
 </p>
 
 - **Loss Functions**: Cross-Entropy (CE) and Dice Loss dominate segmentation tasks; Smooth L1 Loss is preferred for robust bounding box regression.
@@ -152,7 +152,7 @@ Statistically aggregated insights on common training setups across 211 DL studie
 ## 🚀 Future Directions & Challenges
 
 <p center="align">
-  <img src="assets/fig25_future_trends.png" width="90%" alt="Future Directions Blueprint"/>
+  <img src="assets/fig25_future_trends.svg" width="90%" alt="Future Directions Blueprint"/>
 </p>
 
 - **Architecture-level Metal Artifact Mitigation**: Moving from naive data exclusion to generative prior restoration and uncertainty-aware modeling.
