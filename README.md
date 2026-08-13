@@ -84,9 +84,12 @@ Each public dataset record encompasses complete administrative and technical att
 
 We systematically meta-analyze **49 publicly accessible dental datasets** across 5 primary modalities.
 
-<p center="align">
-  <img src="assets/fig7_dataset_dist.svg" width="48%" />
-  <img src="assets/fig8_dataset_samples.svg" width="48%" />
+<p align="center">
+  <img src="assets/fig7_dataset_dist.svg" width="75%" alt="Distribution of dataset sizes and modalities"/>
+</p>
+
+<p align="center">
+  <img src="assets/fig8_dataset_samples.svg" width="90%" alt="Examples of data modalities and annotations"/>
 </p>
 
 ### Key Public Datasets Summary (Selection)
